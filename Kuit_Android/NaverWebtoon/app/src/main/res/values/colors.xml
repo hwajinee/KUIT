@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FF0000</color>
+    <color name="gray">#dedede</color>
+    <color name="naver_green">#22DC28</color>
+    <color name="logout_button_background_green">#00c059</color>
+    <color name="logout_button_background_gray">#838383</color>
+    <color name="gray_view">#ededed</color>
+    <color name="light_gray">#dadada</color>
+    <color name="theme_red">#D83B3B</color>
+    <color name="theme_skyblue">#28AFED</color>
+    <color name="theme_mustard">#BAA80F</color>
+    <color name="theme_wasabi">#8FE857</color>
+    <color name="dark_gray">#5A5A5A</color>
+</resources>
